@@ -1,0 +1,23 @@
+.login{
+    /* background-image: url('your-background-image.jpg'); */
+    background-image: url('https://adventurousevents.in/wp-content/uploads/2023/02/pexels-salah-alawadhi-382297-e1675333688222-1024x768.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background fixed while scrolling */
+    height: 100vh;
+    /* background-color: rgba(255,255,255,0.8); */
+}
+.reg{
+    background-image: url('https://wallpapers.com/images/hd/club-party-background-1920-x-1136-v3jn9mqh6vwa9to3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    height: 100vh;
+}
+.hi{
+    height: 100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_4ub-_LbKfh7zUvm9EW6TupibogpVHqHhw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 105vh;
+}

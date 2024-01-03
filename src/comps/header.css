@@ -1,0 +1,9 @@
+.navcolor{
+    color: white;
+    text-decoration: none;
+}
+
+.navcolor:hover{
+    color:aquamarine;
+    text-decoration: none;
+}
