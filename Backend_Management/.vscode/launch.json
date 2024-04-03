@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsystemApplication<msystem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "kumutha.msystem.MsystemApplication",
+            "projectName": "msystem",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MsystemApplication<msystem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "kumutha.msystem.MsystemApplication",
+            "projectName": "msystem",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
